@@ -2,7 +2,7 @@
 Blauw
 
 -Je keuze waarop je wilt focussen 
-Helemaal responsive
+Animatie
 
 -De website waaraan je wilt gaan werken
 https://www.spacex.com/
